@@ -1,0 +1,12 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "- A state management library of javascript that can be used with react, vues, and angular or any other js library or frameworks - A Redux is used to manage predictable state - this help to avoid prop drealing in our projects or components - without this we need to use props lifting( if props required in child component then we need to use that props from parent to child to make use of it.) - without redux we need to pass through all the component in the hirarchy even that components don't required",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
